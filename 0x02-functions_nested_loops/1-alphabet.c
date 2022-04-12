@@ -11,11 +11,10 @@ void print_alphabet(void)
 
 	while (c <= 'z')
 	{
-		printf(c);
+		printf(c"/n");
 		c++;
 
 	}
-	printf('\n');
   return (0);
 
 }
