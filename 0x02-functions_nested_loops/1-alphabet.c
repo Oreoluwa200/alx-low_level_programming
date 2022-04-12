@@ -10,14 +10,14 @@ int main()
 	alphabet='a';
 
 	//print statement
-	_putchar("Lowercase alphabets:\n");
+	_putchar("a /n");
 
 	//loop statement, that will check the condition
 	//and print the alphabets from 'a' to 'z'
 	while(alphabet<='z')
 	{
 		//printing the alphabets
-		_putchar("%c ",alphabet);
+		_putchar(alphabet);
 		//increasing the value by 1
 		alphabet++;
 	}
