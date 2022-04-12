@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 
 
 /**
@@ -7,7 +7,7 @@
  * Return: nothing, return void
  */
 
-int main(void)
+int main()
 {
 printf("_putchar");
 
