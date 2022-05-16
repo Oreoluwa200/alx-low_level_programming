@@ -25,3 +25,5 @@ void print_c(va_list s);
 void print_i(va_list s);
 void print_f(va_list s);
 void print_s(va_list s);
+
+#endif
